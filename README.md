@@ -56,14 +56,6 @@
 
 ---
 
-### 📊 Статистика GitHub
-
-![Статистика профиля](https://vercel.app<arturvilandas>&show_icons=true&theme=dark)
-![Используемые языки](https://vercel.app<arturvilandas>&layout=compact&theme=dark)
-
----
-
 ### 📫 Как со мной связаться:
 - **Telegram:** [@Vilandas_Artur](https://t.me)
 - **Email:** [vilandas2013@mail.ru](mailto:vilandas2013@mail.ru)
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
